@@ -22,4 +22,3 @@ Undetected 8/4/2022
 ```      
 ![Preview](https://github.com/ScreenGC/Warzone-Multi-tool/blob/main/unknown.png)
 
-<h2 align="center"> Copyright © 2022 - 2023
